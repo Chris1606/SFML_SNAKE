@@ -1,0 +1,315 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACER\\Desktop\\SFML_SNAKE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F4879A5A-2743-4A06-BD3A-DD38B9107245}|SFML_SNAKE.vcxproj|C:\\Users\\ACER\\Desktop\\SFML_SNAKE\\GamePlay.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F4879A5A-2743-4A06-BD3A-DD38B9107245}|SFML_SNAKE.vcxproj|solutionrelative:GamePlay.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4879A5A-2743-4A06-BD3A-DD38B9107245}|SFML_SNAKE.vcxproj|C:\\Users\\ACER\\Desktop\\SFML_SNAKE\\MainMenu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F4879A5A-2743-4A06-BD3A-DD38B9107245}|SFML_SNAKE.vcxproj|solutionrelative:MainMenu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4879A5A-2743-4A06-BD3A-DD38B9107245}|SFML_SNAKE.vcxproj|C:\\Users\\ACER\\Desktop\\SFML_SNAKE\\MainMenu.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F4879A5A-2743-4A06-BD3A-DD38B9107245}|SFML_SNAKE.vcxproj|solutionrelative:MainMenu.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4879A5A-2743-4A06-BD3A-DD38B9107245}|SFML_SNAKE.vcxproj|C:\\Users\\ACER\\Desktop\\SFML_SNAKE\\GameOver.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F4879A5A-2743-4A06-BD3A-DD38B9107245}|SFML_SNAKE.vcxproj|solutionrelative:GameOver.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4879A5A-2743-4A06-BD3A-DD38B9107245}|SFML_SNAKE.vcxproj|C:\\Users\\ACER\\Desktop\\SFML_SNAKE\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F4879A5A-2743-4A06-BD3A-DD38B9107245}|SFML_SNAKE.vcxproj|solutionrelative:Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4879A5A-2743-4A06-BD3A-DD38B9107245}|SFML_SNAKE.vcxproj|C:\\Users\\ACER\\Desktop\\SFML_SNAKE\\GamePlay.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F4879A5A-2743-4A06-BD3A-DD38B9107245}|SFML_SNAKE.vcxproj|solutionrelative:GamePlay.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4879A5A-2743-4A06-BD3A-DD38B9107245}|SFML_SNAKE.vcxproj|C:\\Users\\ACER\\Desktop\\SFML_SNAKE\\PauseGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F4879A5A-2743-4A06-BD3A-DD38B9107245}|SFML_SNAKE.vcxproj|solutionrelative:PauseGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4879A5A-2743-4A06-BD3A-DD38B9107245}|SFML_SNAKE.vcxproj|C:\\Users\\ACER\\Desktop\\SFML_SNAKE\\Snake.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F4879A5A-2743-4A06-BD3A-DD38B9107245}|SFML_SNAKE.vcxproj|solutionrelative:Snake.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4879A5A-2743-4A06-BD3A-DD38B9107245}|SFML_SNAKE.vcxproj|C:\\Users\\ACER\\Desktop\\SFML_SNAKE\\Snake.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F4879A5A-2743-4A06-BD3A-DD38B9107245}|SFML_SNAKE.vcxproj|solutionrelative:Snake.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4879A5A-2743-4A06-BD3A-DD38B9107245}|SFML_SNAKE.vcxproj|C:\\Users\\ACER\\Desktop\\SFML_SNAKE\\StateMan.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F4879A5A-2743-4A06-BD3A-DD38B9107245}|SFML_SNAKE.vcxproj|solutionrelative:StateMan.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\deque||{3B902123-F8A7-4915-9F01-361F908088D0}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4879A5A-2743-4A06-BD3A-DD38B9107245}|SFML_SNAKE.vcxproj|C:\\Users\\ACER\\Desktop\\SFML_SNAKE\\Game.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F4879A5A-2743-4A06-BD3A-DD38B9107245}|SFML_SNAKE.vcxproj|solutionrelative:Game.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4879A5A-2743-4A06-BD3A-DD38B9107245}|SFML_SNAKE.vcxproj|C:\\Users\\ACER\\Desktop\\SFML_SNAKE\\State.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F4879A5A-2743-4A06-BD3A-DD38B9107245}|SFML_SNAKE.vcxproj|solutionrelative:State.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4879A5A-2743-4A06-BD3A-DD38B9107245}|SFML_SNAKE.vcxproj|C:\\Users\\ACER\\Desktop\\SFML_SNAKE\\StateMan.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F4879A5A-2743-4A06-BD3A-DD38B9107245}|SFML_SNAKE.vcxproj|solutionrelative:StateMan.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4879A5A-2743-4A06-BD3A-DD38B9107245}|SFML_SNAKE.vcxproj|C:\\Users\\ACER\\Desktop\\SFML_SNAKE\\PauseGame.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F4879A5A-2743-4A06-BD3A-DD38B9107245}|SFML_SNAKE.vcxproj|solutionrelative:PauseGame.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4879A5A-2743-4A06-BD3A-DD38B9107245}|SFML_SNAKE.vcxproj|C:\\Users\\ACER\\Desktop\\SFML_SNAKE\\GameOver.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F4879A5A-2743-4A06-BD3A-DD38B9107245}|SFML_SNAKE.vcxproj|solutionrelative:GameOver.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4879A5A-2743-4A06-BD3A-DD38B9107245}|SFML_SNAKE.vcxproj|C:\\Users\\ACER\\Desktop\\SFML_SNAKE\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F4879A5A-2743-4A06-BD3A-DD38B9107245}|SFML_SNAKE.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\map||{3B902123-F8A7-4915-9F01-361F908088D0}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Game.hpp",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\SFML_SNAKE\\Game.hpp",
+              "RelativeDocumentMoniker": "Game.hpp",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\SFML_SNAKE\\Game.hpp",
+              "RelativeToolTip": "Game.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-18T15:48:36.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Snake.hpp",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\SFML_SNAKE\\Snake.hpp",
+              "RelativeDocumentMoniker": "Snake.hpp",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\SFML_SNAKE\\Snake.hpp",
+              "RelativeToolTip": "Snake.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-18T15:48:29.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Game.cpp",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\SFML_SNAKE\\Game.cpp",
+              "RelativeDocumentMoniker": "Game.cpp",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\SFML_SNAKE\\Game.cpp",
+              "RelativeToolTip": "Game.cpp",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-15T17:04:41.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "map",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\map",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\map",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\map",
+              "RelativeToolTip": "..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\map",
+              "ViewState": "AQIAAGEBAAAAAAAAAAAawGwBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-15T17:02:13.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameOver.cpp",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\SFML_SNAKE\\GameOver.cpp",
+              "RelativeDocumentMoniker": "GameOver.cpp",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\SFML_SNAKE\\GameOver.cpp",
+              "RelativeToolTip": "GameOver.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-15T16:57:54.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StateMan.cpp",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\SFML_SNAKE\\StateMan.cpp",
+              "RelativeDocumentMoniker": "StateMan.cpp",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\SFML_SNAKE\\StateMan.cpp",
+              "RelativeToolTip": "StateMan.cpp",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAgwEAAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-15T16:54:25.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StateMan.hpp",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\SFML_SNAKE\\StateMan.hpp",
+              "RelativeDocumentMoniker": "StateMan.hpp",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\SFML_SNAKE\\StateMan.hpp",
+              "RelativeToolTip": "StateMan.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-15T16:53:44.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "State.hpp",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\SFML_SNAKE\\State.hpp",
+              "RelativeDocumentMoniker": "State.hpp",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\SFML_SNAKE\\State.hpp",
+              "RelativeToolTip": "State.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-15T16:53:45.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "deque",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\deque",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\deque",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\deque",
+              "RelativeToolTip": "..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\deque",
+              "ViewState": "AQIAAPMDAAAAAAAAAAAgwB0EAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-15T16:53:07.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainMenu.hpp",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\SFML_SNAKE\\MainMenu.hpp",
+              "RelativeDocumentMoniker": "MainMenu.hpp",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\SFML_SNAKE\\MainMenu.hpp",
+              "RelativeToolTip": "MainMenu.hpp",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-15T16:46:41.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GameOver.hpp",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\SFML_SNAKE\\GameOver.hpp",
+              "RelativeDocumentMoniker": "GameOver.hpp",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\SFML_SNAKE\\GameOver.hpp",
+              "RelativeToolTip": "GameOver.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-15T16:43:48.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PauseGame.cpp",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\SFML_SNAKE\\PauseGame.cpp",
+              "RelativeDocumentMoniker": "PauseGame.cpp",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\SFML_SNAKE\\PauseGame.cpp",
+              "RelativeToolTip": "PauseGame.cpp",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAowCUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-15T16:43:36.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PauseGame.hpp",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\SFML_SNAKE\\PauseGame.hpp",
+              "RelativeDocumentMoniker": "PauseGame.hpp",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\SFML_SNAKE\\PauseGame.hpp",
+              "RelativeToolTip": "PauseGame.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-15T16:43:26.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Snake.cpp",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\SFML_SNAKE\\Snake.cpp",
+              "RelativeDocumentMoniker": "Snake.cpp",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\SFML_SNAKE\\Snake.cpp",
+              "RelativeToolTip": "Snake.cpp",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAADIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-15T08:46:20.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GamePlay.hpp",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\SFML_SNAKE\\GamePlay.hpp",
+              "RelativeDocumentMoniker": "GamePlay.hpp",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\SFML_SNAKE\\GamePlay.hpp",
+              "RelativeToolTip": "GamePlay.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-15T08:31:25.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GamePlay.cpp",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\SFML_SNAKE\\GamePlay.cpp",
+              "RelativeDocumentMoniker": "GamePlay.cpp",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\SFML_SNAKE\\GamePlay.cpp",
+              "RelativeToolTip": "GamePlay.cpp",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAAAH0AAAB+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-15T16:41:34.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainMenu.cpp",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\SFML_SNAKE\\MainMenu.cpp",
+              "RelativeDocumentMoniker": "MainMenu.cpp",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\SFML_SNAKE\\MainMenu.cpp",
+              "RelativeToolTip": "MainMenu.cpp",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-15T16:38:58.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\SFML_SNAKE\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\SFML_SNAKE\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-15T16:38:52.035Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
